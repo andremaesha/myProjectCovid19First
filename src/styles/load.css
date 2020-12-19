@@ -1,0 +1,10 @@
+.loader {
+    position: fixed;
+    display: none;
+    left: 10%;
+    top: 10%;
+    width: 70%;
+    height: 70%;
+    z-index: 9999;
+    background: url("../images/icon-3.jpg") 50% 50% no-repeat;
+}
